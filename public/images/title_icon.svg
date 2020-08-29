@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 1024" style="enable-background:new 0 0 1024 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFDD67;}
+	.st1{fill:#664E27;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st4{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st5{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;fill-opacity:0.75;}
+	.st6{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFDD00;}
+	.st7{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#64C9D3;}
+	.st8{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#FF8621;}
+	.st9{clip-path:url(#SVGID_2_);}
+</style>
+<g id="Layer_2">
+</g>
+<g id="Layer_1">
+	<g>
+		<circle class="st0" cx="3214.31" cy="-160.31" r="266.96"/>
+		
+			<ellipse transform="matrix(0.5257 -0.8507 0.8507 0.5257 1669.0498 2539.5164)" class="st1" cx="3111.97" cy="-227.05" rx="44.49" ry="44.49"/>
+		
+			<ellipse transform="matrix(0.5257 -0.8507 0.8507 0.5257 1766.1185 2713.6194)" class="st1" cx="3316.64" cy="-227.05" rx="44.49" ry="44.49"/>
+		<path class="st1" d="M3365.59-106.47c0-7.15-4.23-16.09-16.21-18.38c-30.83-5.89-76.37-11.95-135.08-11.95
+			c-58.69,0-104.24,6.06-135.06,11.95c-12.01,2.3-16.21,11.24-16.21,18.38c0,64.7,49.93,129.84,151.28,129.84
+			C3315.64,23.37,3365.59-41.77,3365.59-106.47z"/>
+		<path class="st2" d="M3327.23-104.4c-19.53-3.27-60.85-9.01-112.92-9.01c-52.08,0-93.4,5.74-112.93,9.01
+			c-11.52,1.94-12.22,6.61-11.42,13.22c0.48,3.93,1.22,8.68,2.36,13.82c1.26,5.7,2.33,8.33,11.27,7.26
+			c17.09-2.04,204.38-2.04,221.47,0c8.93,1.06,9.99-1.58,11.27-7.26c1.13-5.14,1.88-9.88,2.35-13.82
+			C3339.45-97.79,3338.75-102.46,3327.23-104.4z"/>
+	</g>
+	<circle class="st3" cx="512" cy="512" r="490.82"/>
+	<g>
+		<defs>
+			<circle id="SVGID_1_" cx="512" cy="512" r="460.97"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<rect id="XMLID_99_" x="5" y="-11.16" class="st4" width="1024" height="1024"/>
+		<path id="XMLID_23_" class="st5" d="M551.55,180.68v672.83c0,26.32-21.52,47.84-47.84,47.84h0c-26.32,0-47.84-21.52-47.84-47.84
+			V180.68c0-26.32,21.52-47.84,47.84-47.84h0C530.03,132.84,551.55,154.36,551.55,180.68"/>
+		<polygon class="st6" points="5,-11.16 517,500.84 1029,-11.16 		"/>
+		<polygon class="st7" points="1029,1012.84 517,500.84 1029,-11.16 		"/>
+		<polygon class="st7" points="5,-11.16 517,500.84 5,1012.84 		"/>
+		<polygon class="st8" points="1029,1012.84 5,1012.84 517,500.84 		"/>
+		<circle class="st5" cx="510.91" cy="500.76" r="304.28"/>
+		<g class="st9">
+			<g>
+				<g>
+					<circle class="st0" cx="511.37" cy="506.32" r="266.96"/>
+					<circle class="st1" cx="409.04" cy="439.58" r="44.49"/>
+					
+						<ellipse transform="matrix(0.3827 -0.9239 0.9239 0.3827 -27.2635 838.351)" class="st1" cx="613.71" cy="439.58" rx="44.49" ry="44.49"/>
+					<path class="st1" d="M662.66,560.15c0-7.15-4.23-16.09-16.21-18.38c-30.83-5.89-76.37-11.95-135.08-11.95
+						c-58.69,0-104.24,6.06-135.06,11.95c-12.01,2.3-16.21,11.24-16.21,18.38c0,64.7,49.93,129.84,151.28,129.84
+						C612.71,690,662.66,624.86,662.66,560.15z"/>
+					<path class="st2" d="M624.3,562.23c-19.53-3.27-60.85-9.01-112.92-9.01c-52.08,0-93.4,5.74-112.93,9.01
+						c-11.51,1.94-12.22,6.61-11.42,13.22c0.48,3.93,1.22,8.68,2.36,13.82c1.26,5.7,2.33,8.33,11.27,7.26
+						c17.09-2.04,204.38-2.04,221.47,0c8.93,1.06,9.99-1.58,11.27-7.26c1.13-5.14,1.88-9.88,2.35-13.82
+						C636.52,568.84,635.82,564.17,624.3,562.23z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
